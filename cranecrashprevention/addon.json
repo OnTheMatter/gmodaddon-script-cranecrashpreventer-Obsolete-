@@ -1,0 +1,11 @@
+{
+	"title"		:	"Crane Game-Crash Preventer",
+	"type"		:	"tool",
+	"tags"		:	[ "build"],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
